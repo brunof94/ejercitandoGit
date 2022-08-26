@@ -1,5 +1,4 @@
 ejercitandoGit
+Autores: Bruno Fulco, Santiago
 
-Autores: Bruno, Santiago
-
-ejercitandoGit2022
+ejercitandoGit 2022 y 2023

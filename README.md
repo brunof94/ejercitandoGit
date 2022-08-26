@@ -1,5 +1,5 @@
 ejercitandoGit
 
-Autores: Bruno, Santiago
+Autores: Bruno, Santiago Iriart
 
 ejercitandoGit2022
